@@ -1,6 +1,3 @@
-Here's the raw markdown version you can copy:
-
-```markdown
 # ✅ Castorosa To-Do List Application
 
 A simple, full-stack **To-Do List web application** built using **Spring Boot** (Java), **PostgreSQL**, and a basic **HTML/CSS/JavaScript frontend**. This project demonstrates **CRUD operations**, **RESTful APIs**, and core **OOP principles** like Abstraction, Encapsulation, and Layered Architecture.
@@ -124,7 +121,7 @@ castorosa-todo/
 
 ## 🖼 Sample Screenshot
 
-*Add your screenshot here (optional):*
+![image](https://github.com/user-attachments/assets/e269cf0c-870f-4f7e-9c5e-36eae0b54c4c)
 
 ```html
 <!-- Example placeholder -->
@@ -145,6 +142,3 @@ castorosa-todo/
 
 This project is licensed for educational and personal use.  
 Feel free to modify and improve it for your own purposes.
-```
-
-Just copy everything inside the code block above and paste it directly into your README.md file!

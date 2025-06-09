@@ -133,7 +133,7 @@ castorosa-todo/
 ## 🧑‍💻 Author
 
 **Castorosa**  
-[GitHub Profile](https://github.com/yourusername)  
+[GitHub Profile](https://github.com/gabrieljumanne)  
 [Email](mailto:your-email@example.com)
 
 ---

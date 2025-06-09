@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>To-Do List</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>📝 To-Do List App</h1>
+      <p>Stay organized and get things done</p>
+    </header>
+
+    <div class="form-container">
+      <form id="taskForm">
+        <div class="input-group">
+          <input type="text" id="title" placeholder="Enter task title..." required />
+          <input type="text" id="description" placeholder="Add description (optional)" />
+        </div>
+        <button type="submit" class="add-btn">
+          <span class="btn-icon">+</span>
+          Add Task
+        </button>
+      </form>
+    </div>
+
+    <div class="tasks-container">
+      <div class="tasks-header">
+        <h2>Your Tasks</h2>
+        <div class="task-count">
+          <span id="taskCount">0 tasks</span>
+        </div>
+      </div>
+      <ul id="taskList" class="task-list"></ul>
+      <div id="emptyState" class="empty-state">
+        <div class="empty-icon">📋</div>
+        <h3>No tasks yet</h3>
+        <p>Add your first task to get started!</p>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
